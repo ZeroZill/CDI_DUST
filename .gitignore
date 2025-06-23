@@ -1,0 +1,69 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and package manager files
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS and Linux system files
+.DS_Store
+*.swp
+*.swo
+*.swn
+
+# Log files and database
+*.log
+*.sqlite3
+
+# Unit test / coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Distribution / build files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp

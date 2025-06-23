@@ -1,0 +1,10 @@
+matplotlib~=3.5.2
+numpy~=1.23.5
+scipy~=1.9.1
+scikit-learn~=1.0.2
+scikit-posthocs~=0.7.0
+scikit-multiflow~=0.5.3
+pandas~=2.2.1
+tqdm~=4.64.1
+torch~=1.13.1
+Orange3~=3.30.0
